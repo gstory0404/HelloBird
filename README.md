@@ -1,4 +1,4 @@
-# 使用Flutter原生方法开发FlappyBird全平台版
+# Flutter原生方法开发FlappyBird全平台版
 
 ## 界面
 
